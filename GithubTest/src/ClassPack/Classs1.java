@@ -9,7 +9,7 @@ public class Classs1 {
 	
 	public static void display(){
 		
-		System.out.println("Display");
+		System.out.println("Display the content");
 	}
 
 }
