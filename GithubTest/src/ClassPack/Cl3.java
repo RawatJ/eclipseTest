@@ -1,6 +1,6 @@
 package ClassPack;
 
-public Class Cl3{
+public class Cl3{
 
 public static void main(String[] args){
 
