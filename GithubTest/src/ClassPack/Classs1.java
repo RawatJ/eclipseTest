@@ -7,7 +7,7 @@ public class Classs1 {
 	System.out.print("Printed through Bash.");
 
 
-	System.out.print("This is second bash updation.")
+	System.out.print("This is second bash updation.");
 	}
 
 }
